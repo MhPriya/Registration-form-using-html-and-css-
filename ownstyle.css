@@ -1,0 +1,77 @@
+ body
+{
+    align-content: center;
+    background-color: burlywood;
+    font-size: larger;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.content{
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+.heading{
+    position: relative; left: px; right: 0px;
+    background-color: rgb(201, 162, 162);
+}
+
+.fn
+{
+position:relative; left: 30px; top: 15px;right: 250px; 
+border: 3px solid ;
+width: 200px;
+    height: 15px;
+    padding: 1px;
+
+}
+.ln
+{
+    position : relative; left: 260px;right: 250px; bottom:29px;
+    border: 3px solid ;
+    width: 200px;
+    height: 15px;
+    padding: 1px;
+
+}
+.email
+{
+    position: relative; margin-left: 10px; 
+    border: 3px solid ;
+    width: 300px;
+    height: 15px;
+    padding: 1px;
+
+}
+.psw
+{
+    position: relative; margin-left: 10px;
+    border: 3px solid ;
+    width: 260px;
+    height: 15px;
+    padding: 1px;
+
+}
+
+.rpsw{
+    position: relative; margin-left: 10px;
+    border: 3px solid ;
+    width: 194px;
+    height: 15px;
+    padding: 1px;
+
+
+}
+.country{
+    position: relative; left: 30px;
+    border: 3px solid ;
+
+}
+.register{
+    border: 3px solid ;
+    position: relative; left: 30px;
+color:indianred;
+
+}
