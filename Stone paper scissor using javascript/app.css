@@ -1,0 +1,43 @@
+.rock{
+    background-color: gray;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.paper{
+    background-color: grey;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.scissor{
+    background-color: grey;
+    color:  white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+h2{
+
+color:whitesmoke;
+font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+img{
+    position:absolute;
+    margin-left: 350px;
+    height: 200px;
+    margin-top: 100px;
+    margin-right: 150px;
+
+}
+body {
+    background-repeat: no-repeat;
+    background-size: cover
+    ;
+
+}
